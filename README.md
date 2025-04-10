@@ -37,6 +37,6 @@ Inception-V3 model used is a pre-trained on the ImageNet dataset which consist o
 
 ![Screenshot 2025-04-10 175212](https://github.com/user-attachments/assets/7f5d9550-d5ec-46ef-bb6f-0865c7655cb5)
 
-The pre-trained Inception-V3 model has performed significantly well with an accuracy of 82.57% as compare to AlexNet-CNN and Multi-Layer Perceptron deep neural network model.
+The pre-trained Inception-V3 model has performed significantly well with an accuracy of 80.25% as compare to AlexNet-CNN and Multi-Layer Perceptron deep neural network model.
 
 
