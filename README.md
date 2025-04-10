@@ -34,6 +34,7 @@ Results -
 
 Developed 3 Deep Neural Network models i.e. Multi-Layer Perceptron, AlexNet-CNN, and Inception-V3 in order to classify the Brain MRI Images to 4 different independent classes.
 Inception-V3 model used is a pre-trained on the ImageNet dataset which consist of 1K classes but for this project we have tuned the later part i.e. the Fully-Connected part of the model while retaining the weights of the CNN part to satisfy the needs of this work.
+
 ![Screenshot 2025-04-10 175212](https://github.com/user-attachments/assets/7f5d9550-d5ec-46ef-bb6f-0865c7655cb5)
 
 The pre-trained Inception-V3 model has performed significantly well with an accuracy of 82.57% as compare to AlexNet-CNN and Multi-Layer Perceptron deep neural network model.
