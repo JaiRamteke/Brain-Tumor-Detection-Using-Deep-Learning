@@ -12,6 +12,9 @@ The goal of the project was to develop a deep learning model which has the capab
 
 
 
+
+
+
 About Dataset -
 
 Refer to README.md file in the Brain Tumor Dataset directory in this repository to get a clear idea about the dataset and the preprocessing steps.
@@ -19,6 +22,10 @@ The below image gives a glimpse about the different kinds of tumors with its loc
 ![Brain-Tumor-MRI-With-Localisation-Masks](https://github.com/user-attachments/assets/9e6f7283-3090-4df5-80cc-ade1a4302ae6)
 
 Brain-MRI-Images-With-Localisation-Masks
+
+
+
+
 
 
 
