@@ -11,6 +11,6 @@ Pillow==10.4.0
 tensorflow==2.20.0
 scikit-learn==1.5.2
 h5py==3.11.0
-keras==3.4.1
+keras==3.10.0
 scipy==1.14.1
 missingno==0.5.2
