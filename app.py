@@ -1,23 +1,3 @@
-"""
-Streamlit App: AI-Powered Brain Tumor Classification
-
-Drop this file into your project folder and run:
-    streamlit run streamlit_brain_tumor_app.py
-
-Requirements (install via pip):
-    pip install streamlit tensorflow pillow numpy matplotlib opencv-python
-
-Notes:
-- Place your trained model weights inside the `models/` folder with these filenames:
-    - models/inceptionv3_weights.h5
-    - models/alexnet_weights.h5
-    - models/mlp_weights.h5
-  If weights are not present, the app shows a placeholder and will not perform real predictions.
-- The app includes a Grad-CAM implementation for visual explanations when using InceptionV3.
-
-Author: Jai Ramteke
-"""
-
 import os
 from pathlib import Path
 from typing import Tuple, Optional
